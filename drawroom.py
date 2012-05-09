@@ -57,10 +57,10 @@ class Brush:
     else:
       self.color = (255,255,255)
 
-  def bigger(self, step = 10):
+  def bigger(self, step = 2):
     self.size += step
 
-  def smaller(self, step = 10):
+  def smaller(self, step = 2):
     if self.size >= step:
       self.size -= step
 

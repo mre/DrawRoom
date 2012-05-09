@@ -2,6 +2,9 @@ DrawRoom - Distraction free drawing
 ===================================
 
 Inspired by WriteRoom, you will never find an easier drawing app.
+Just a white canvas.
+
+![DrawRoom][Screenshot]
 
 # Keys
 
@@ -11,3 +14,5 @@ Inspired by WriteRoom, you will never find an easier drawing app.
       e: Eraser
       f: Toggle fullscreen
       ESC: Quit DrawRoom
+
+[Screenshot]: https://github.com/mre/DrawRoom/raw/master/screenshot.png

@@ -2,7 +2,9 @@ DrawRoom - Distraction free drawing
 ===================================
 
 Inspired by WriteRoom, you will never find an easier drawing app.
-Just a white canvas.
+Just a white canvas and your brush.
+Create beautiful images with the power of your imagination.
+Here is an inspiring example:
 
 ![DrawRoom][Screenshot]
 
